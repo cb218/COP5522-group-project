@@ -32,7 +32,8 @@ int main(int argc, char **argv) {
     gamma_value = (diff_value * delta_time) / pow(delta_step, 2);
 
     // Define boundary temps
-
+    double left_border_temp, right_border_temp, top_border_temp, bottom_border_temp;
+    left_border_temp = right_border_temp = top_border_temp = bottom_border_temp = 0.0;
 
     // TODO: Define initial temp at each index "0"
     // TODO: Initialize 3d array (on heap)
