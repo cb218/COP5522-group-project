@@ -1,0 +1,11 @@
+
+   Development log: Project
+   Names: Jacob Leiner (JL), Nick Moore (NM), Christiane Barry (CB), Jean Faustin (JF)
+
+Nov 14th, 2021: All group members met to discuss project.  Agreed upon 2d heat equation and created project description
+                document.
+Nov 15th, 2021: JL and NM met to pair program a sequential implementation of the 2d heat equation.  Received feedback on
+                topic from Dr. Srinvasan that project was not complex enough. Group members decided to do additional
+                research into alternative topics and discuss in the following days.
+Nov 16th, 2021: NM completed research on potential sorting algorithms and presented resources to the group.
+Nov 18th, 2021: JL and NM pair-programmed sequential implementations of the odd/even and sample sorting algorithms.
