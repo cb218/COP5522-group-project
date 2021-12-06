@@ -1,0 +1,16 @@
+
+   Development log: Odd-Even Transposition Sort Optimization Project
+   Names: Christianne Barry (CB), Jean Faustin (JF)
+
+Nov 19th, 2021: CB and JF experimented with different flag optimizations for the odd-even transposition sorting algorithm and documented the
+	results in the group progress report document. 
+Nov 20th, 2021: NM compiled the groups optimizations of both Odd-Even and Bucket Sorts for the progress report.
+Nov 27th, 2021: Group met to discuss distribution of the parallel optimizations of the two sorting algorithms. It was decided that CB and JF
+	would produce the Odd Even Transposition Sort parallel optimizations for both OpenMP and MPI while the other group members NM and JL
+	would optimize Bucket Sort.
+Nov 29th, 2021: CB began optimizing Odd-Even Sort with OpenMP parallelization. Discussed parallelizing ideas with JF such as creating processes
+	before outer loop to reduce fork-join overhead performance losses.
+Dec 3rd, 2021: JF began optimizing Odd-Even Sort with MPI parallelization. NM compiled and summarized the groups data and algorithms so
+	far into a 5 min video for the class discussion board.
+Dec 5th, 2021: Having successfully compiled Odd-Even Sort we began to collect data on the schedule optimizations, flag optimizations, and
+	analysis of the problem size and num_cores using cs-ssh.
